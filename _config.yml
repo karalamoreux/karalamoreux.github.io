@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kara Lamoreux"
+title                    : "Kara Lamoreux / M.S. Student"
 title_separator          : "-"
 name                     : &name "Kara Lamoreux"
 description              : &description "Kara Lamoreux's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "karalamoreux/karalamoreux.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/github_pfp.jpg"
+  avatar           : "/images/github_pfp_1.jpg"
   name             : "Kara Lamoreux"
   pronouns         : "she/her"  
   bio              : "M.S. Student in Natural Resources Science and Management (Class '27)"
