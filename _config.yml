@@ -23,7 +23,7 @@ repository               : "karalamoreux/karalamoreux.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/github_pfp.jpg"
   name             : "Kara Lamoreux"
   pronouns         : "she/her"  
   bio              : "M.S. Student in Natural Resources Science and Management (Class '27)"
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-5483-4985"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "karalamoreux"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
