@@ -24,7 +24,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "/files/Kara_Lamoreux_CV.pdf"
+    target: "_blank"
     
   # - title: "CV"
   #   url: /cv-json/
